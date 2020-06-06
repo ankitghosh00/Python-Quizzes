@@ -1,0 +1,54 @@
+1.Question 1
+Why is Python such a popular language?
+
+<A>    Few Libraries
+<B>    Simplified Syntax
+<C>    Focused Usage
+<D.    Limited Users
+
+
+AnS:<B>    Simplified Syntax
+
+
+2.Question 2
+How can we tell what version of python we are currently using?
+
+<A>    python +v
+<B>    python -v
+<C>    python --version
+<D>    python version
+
+
+AnS:<C>    python --version
+
+
+3.Question 3
+What defines the body of a decision construct in Python?
+
+<A>    indented line
+<B>    parentheses
+<C>    square braces
+<D>    curly braces
+
+AnS:<A>    indented line
+
+
+4.Question 4
+How many looping constructs exist in Python?
+
+<A>    four
+<B>    two
+<C>    one
+<D>   three
+
+AnS:<B>    two
+
+
+5.Question 5
+Just like Java, a function can be defined anywhere in a Python program?
+
+<A>    true
+<B>    false
+
+
+AnS;<B>    false
